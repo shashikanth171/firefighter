@@ -37,5 +37,5 @@ feature: Addon will notify user if the website is greylisted or blacklisted
 
 We are doing everything to get this addon out for use. Contributions are most welcome.
 
-If you are interested reach out to us on Telegram t.me/firefighteraddon
+If you are interested reach out to us on Telegram https://t.me/firefighteraddon
 
